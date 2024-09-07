@@ -1,4 +1,4 @@
-#oop由上而下擴充功能，aop橫向擴充功能
+#oop由上而下擴充功能，aop切面擴充功能
 def c(func):
     print('start')
     func()
